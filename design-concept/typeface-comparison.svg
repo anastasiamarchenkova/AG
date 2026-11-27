@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="850" viewBox="0 0 1600 850">
+<defs><style>
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&amp;family=Instrument+Serif&amp;family=Italiana&amp;family=Lora&amp;family=DM+Sans:wght@400;500;600&amp;display=swap');
+.sans{font-family:'DM Sans',Arial,sans-serif}.instrument{font-family:'Instrument Serif',Georgia,serif}.cormorant{font-family:'Cormorant Garamond',Georgia,serif}.lora{font-family:'Lora',Georgia,serif}.italiana{font-family:'Italiana',Georgia,serif}
+</style></defs>
+<rect width="1600" height="850" fill="#f7f2e8"/><path fill="#244c3b" d="M0 0h1600v52H0z"/>
+<text x="76" y="33" fill="#f8f2e4" class="sans" font-size="13" letter-spacing="2.4">WINE SENSE METHOD · CHRISTMAS LANDING PAGE</text>
+<text x="1524" y="33" text-anchor="end" fill="#dec797" class="sans" font-size="12" letter-spacing="2">HEADLINE TYPE STUDY</text>
+<text x="80" y="117" fill="#a72c2c" class="sans" font-size="13" font-weight="600" letter-spacing="3">A MORE BALANCED EDITORIAL VOICE</text>
+<text x="80" y="173" fill="#25241f" class="instrument" font-size="52">Three headline directions</text>
+<text x="80" y="211" fill="#756f64" class="sans" font-size="16">Same message, three typefaces. More body and readability than the current Italiana.</text>
+<rect x="80" y="249" width="465" height="468" fill="#fffaf1" stroke="#a72c2c" stroke-width="2"/>
+<rect x="564" y="249" width="465" height="468" fill="#fffaf1" stroke="#ded5c5"/>
+<rect x="1048" y="249" width="465" height="468" fill="#fffaf1" stroke="#ded5c5"/>
+<rect x="1371" y="249" width="142" height="29" fill="#a72c2c"/><text x="1442" y="268" text-anchor="middle" fill="white" class="sans" font-size="10" font-weight="600" letter-spacing="2">MY PICK</text>
+<text x="110" y="292" fill="#244c3b" class="sans" font-size="12" font-weight="600" letter-spacing="2">01 · INSTRUMENT SERIF</text>
+<text x="594" y="292" fill="#244c3b" class="sans" font-size="12" font-weight="600" letter-spacing="2">02 · CORMORANT GARAMOND</text>
+<text x="1078" y="292" fill="#244c3b" class="sans" font-size="12" font-weight="600" letter-spacing="2">03 · LORA</text>
+<text x="110" y="382" fill="#a72c2c" class="instrument" font-size="69" letter-spacing="-2">Give yourself</text><text x="110" y="455" fill="#a72c2c" class="instrument" font-size="69" letter-spacing="-2">the gift of</text><text x="110" y="528" fill="#a72c2c" class="instrument" font-size="69" letter-spacing="-2">wine confidence.</text>
+<text x="594" y="382" fill="#a72c2c" class="cormorant" font-size="72" letter-spacing="-2">Give yourself</text><text x="594" y="455" fill="#a72c2c" class="cormorant" font-size="72" letter-spacing="-2">the gift of</text><text x="594" y="528" fill="#a72c2c" class="cormorant" font-size="72" letter-spacing="-2">wine confidence.</text>
+<text x="1078" y="382" fill="#a72c2c" class="lora" font-size="61" letter-spacing="-2">Give yourself</text><text x="1078" y="455" fill="#a72c2c" class="lora" font-size="61" letter-spacing="-2">the gift of</text><text x="1078" y="528" fill="#a72c2c" class="lora" font-size="61" letter-spacing="-2">wine confidence.</text>
+<path d="M110 570h405M594 570h405M1078 570h405" stroke="#ded5c5"/>
+<text x="110" y="604" fill="#25241f" class="sans" font-size="16" font-weight="600">Recommended · the middle ground</text><text x="110" y="631" fill="#756f64" class="sans" font-size="14">Editorial and contemporary, with more presence</text><text x="110" y="652" fill="#756f64" class="sans" font-size="14">and clarity than Italiana.</text>
+<text x="594" y="604" fill="#25241f" class="sans" font-size="16" font-weight="600">The classic direction</text><text x="594" y="631" fill="#756f64" class="sans" font-size="14">More delicate and romantic; closest to a</text><text x="594" y="652" fill="#756f64" class="sans" font-size="14">traditional wine-house feel.</text>
+<text x="1078" y="604" fill="#25241f" class="sans" font-size="16" font-weight="600">The most readable direction</text><text x="1078" y="631" fill="#756f64" class="sans" font-size="14">Warm and approachable, with stronger</text><text x="1078" y="652" fill="#756f64" class="sans" font-size="14">letterforms at smaller sizes.</text>
+<rect x="80" y="739" width="1433" height="65" fill="#e3dac9"/><text x="108" y="777" fill="#756f64" class="sans" font-size="11" letter-spacing="2">CURRENT CONCEPT FONT</text><text x="420" y="781" fill="#766a59" class="italiana" font-size="39">Italiana</text><text x="1482" y="777" text-anchor="end" fill="#756f64" class="sans" font-size="11">Thin · high contrast · existing baseline</text>
+</svg>

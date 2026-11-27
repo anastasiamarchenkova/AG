@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Free guides · Earlier light version</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Italiana&display=swap" rel="stylesheet">
+<style>
+:root{--cream:#f7f2e8;--panel:#e9e2d3;--paper:#fffaf1;--red:#941522;--ink:#25231f;--muted:#736d62}
+*{box-sizing:border-box}
+body{margin:0;background:var(--cream);color:var(--ink);font:16px/1.55 'DM Sans',sans-serif}
+main{min-height:100svh;display:grid;place-items:center;padding:40px 0}
+.preview{width:min(1240px,calc(100% - 72px));margin:auto;background:var(--panel);border-radius:16px;padding:46px;display:grid;grid-template-columns:1fr 1fr;gap:32px;align-items:center}
+h1{font:clamp(40px,5vw,64px)/.98 'Italiana',serif;font-weight:400;margin:0 0 16px;color:var(--ink)}
+.intro p{max-width:520px;color:var(--muted);font-size:15px;margin:0}
+.forms{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+form{display:grid;gap:11px;align-content:start;background:var(--paper);border-radius:14px;padding:20px;min-width:0}
+form b{font-size:16px;line-height:1.35;color:var(--red)}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+input{width:100%;min-width:0;border:0;border-radius:999px;background:#eee4d5;padding:13px 15px;font:14px 'DM Sans',sans-serif;color:var(--ink)}
+button{width:100%;min-height:48px;border:0;border-radius:999px;background:var(--red);color:var(--paper);padding:13px 14px;font:600 10px 'DM Sans',sans-serif;letter-spacing:.1em;text-transform:uppercase;cursor:pointer}
+button:hover{filter:brightness(1.07)}
+.note{grid-column:1/-1;margin:4px 0 0;color:var(--muted);font-size:12px}
+@media(max-width:760px){main{padding:22px 0}.preview{width:calc(100% - 34px);grid-template-columns:1fr;padding:28px 20px;gap:22px}.forms{grid-template-columns:1fr}.note{grid-column:auto}}
+</style>
+</head>
+<body>
+<main>
+<section class="preview" aria-labelledby="title">
+<div class="intro"><h1 id="title">Make holiday pairings feel easy.</h1><p>Get practical, free tools to make tasting more thoughtful and festive meals more delicious.</p></div>
+<div class="forms">
+<form><b>Holiday Wine Pairing Guide</b><label class="sr-only" for="pairing-email">Email address</label><input id="pairing-email" type="email" placeholder="Your email address"><button type="button">Send me the guide</button></form>
+<form><b>Wine Tasting Journal</b><label class="sr-only" for="journal-email">Email address</label><input id="journal-email" type="email" placeholder="Your email address"><button type="button">Send me the journal</button></form>
+<p class="note">[Preview: connect these forms to your email platform.]</p>
+</div>
+</section>
+</main>
+</body>
+</html>
